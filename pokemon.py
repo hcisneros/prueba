@@ -2,7 +2,7 @@ import json
 # from urllib import urlopen
 import requests
 
-# https://pokeapi.co/api/v2/pokemon/3/
+#   https://pokeapi.co/api/v2/pokemon/3/
 base = 'http://pokeapi.co/api/v2/pokemon/'
 pokemon_list = []
 for i in range(1, 152):
